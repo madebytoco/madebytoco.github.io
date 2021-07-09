@@ -1,7 +1,8 @@
 <?php
 if (isset($_POST) && sizeof($_POST) > 0) {
-	
+
 	$to = "madebytoko@gmail.com"; // Your email ID
+	
 
 	if (isset($_POST['formtype'])) {
 		unset($_POST['formtype']);

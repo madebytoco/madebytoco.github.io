@@ -47,11 +47,11 @@ h1, h2, h3, h4, h5, h6,
     color: #1f2229;
 }
 
-.bdr-op-2.row-bdr, 
-.bdr-op-2.row-bdr > [class*="flex-col-"], 
+.bdr-op-2.row-bdr,
+.bdr-op-2.row-bdr > [class*="flex-col-"],
 .bdr-op-2.row-sep > [class*="flex-col-"],
-.bdr-op-2.form-control:hover, 
-.bdr-op-2.form-control:focus, 
+.bdr-op-2.form-control:hover,
+.bdr-op-2.form-control:focus,
 .bdr-op-2 {
     border-color: rgba(152, 167, 177, 0.2);
 }
@@ -70,7 +70,7 @@ h1, h2, h3, h4, h5, h6,
     border-color: rgba(152, 167, 177, 0.2);
 }
 .filter-style1 .filter-list > .active {
-    border-color: #1f9df3;
+    border-color: #46B176;
 }
 
 /* Form */
@@ -151,7 +151,7 @@ h1, h2, h3, h4, h5, h6,
     background-color: rgba(185, 203, 216, 0.1);
 }
 
-/* Tabs */ 
+/* Tabs */
 .tab-style2 .tb-list {
 	border-color: rgba(255,255,255,0.03);
 }
@@ -159,20 +159,20 @@ h1, h2, h3, h4, h5, h6,
 /* Tab style 1
 =========================*/
 .tab-style1 .tb-list {
-	border-color: #1f9df3;
+	border-color: #46B176;
 }
 .tab-style1 .tb-list > li {
 	background-color: rgba(255,255,255,0.03);
 }
 .tab-style1 .tb-list > li.active {
-	background-color: #1f9df3;
+	background-color: #46B176;
 }
 .tab-style1 .tb-content {
 	background-color: rgba(255,255,255,0.03);
 }
 .tab-style1.tb-r .tb-list,
 .tab-style1.side-tab:not(.tb-r)  .tb-list {
-	border-color: #1f9df3;
+	border-color: #46B176;
 }
 
 /* Tab style 2
@@ -182,7 +182,7 @@ h1, h2, h3, h4, h5, h6,
 }
 .tab-style2 .tb-list > li.active,
 .tab-style2.side-tab .tb-list > li.active {
-	border-color: #1f9df3;
+	border-color: #46B176;
 	color: #fff;
 }
 .tab-style2.side-tab .tb-list > li,
@@ -209,6 +209,6 @@ h1, h2, h3, h4, h5, h6,
 	background-color: rgba(255,255,255,0.02);
 }
 .tab-style4 .tb-list > li.active {
-	background-color: #1f9df3;
-	border-color: #1f9df3;
+	background-color: #46B176;
+	border-color: #46B176;
 }
